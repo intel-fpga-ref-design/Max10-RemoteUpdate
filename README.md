@@ -1,4 +1,4 @@
-# Max10 RemoteUpdate
+# Max10 Remote Update
  Max 10 Remote Update through System Console
 
 This design is created in Quartus 21.1 Standard Edition. You will need to recompile the design using RemoteUpdate.qar and convert the programming file using InternalConfig.cof.
