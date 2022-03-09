@@ -1,9 +1,11 @@
 # Max10 RemoteUpdate
  Max 10 Remote Update through System Console
 
-This design is created in Quartus 16.0. You will need to recompile the design using RemoteUpdate.qar.
+This design is created in Quartus 21.1 Standard Edition. You will need to recompile the design using RemoteUpdate.qar and convert the programming file using InternalConfig.cof.
 
 Below is the guide on how to run the demo using System Console.
+1. Run System Console
+2. Execute "source Max10_RSU_v2.tcl"
 
 ![alt text](https://github.com/intel-fpga-ceg/Max10-RemoteUpdate/blob/main/image/console.jpg)
 
